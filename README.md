@@ -3,7 +3,7 @@
 **Frontend developer and Backend learner** <br>
 Open to work on frontend proejcts
 
-> [![GitHub alokraj-05](https://img.shields.io/github/followers/exodusLog?label=follow&style=social&color=9F4BFF)](https://github.com/exodusLog) &#8287; [![All Contributor](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat&color=9F4BFF)](#contributor-) &#8287; ![Total Stars](https://img.shields.io/github/stars/exodusLog?style=flat&color=9F4BFF) &#8287;[![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:exodus.shard@gmail.com) &#8287;![Views](https://komarev.com/ghpvc/?username=exodusLog&label=Views&color=9F4BFF&style=flat)
+> [![GitHub exodusLog](https://img.shields.io/github/followers/exodusLog?label=follow&style=social&color=9F4BFF)](https://github.com/exodusLog) &#8287; [![All Contributor](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat&color=9F4BFF)](#contributor-) &#8287; ![Total Stars](https://img.shields.io/github/stars/exodusLog?style=flat&color=9F4BFF) &#8287;[![Contact Me](https://img.shields.io/badge/Contact_Me-Email-%239F4BFF)](mailto:exodus.shard@gmail.com) &#8287;![Views](https://komarev.com/ghpvc/?username=exodusLog&label=Views&color=9F4BFF&style=flat)
 
 
 
