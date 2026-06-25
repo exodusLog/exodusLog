@@ -6,6 +6,7 @@ _Loves the backend cause it gives me clarity._
 `Just like rust, I have the same ownership rule, I can have multiple immutable refs for the same value but only one mutable ref`
 
 ```rs
+#[derive(Debug)]
 struct Me {
   name: String,
   profecient: String,
@@ -23,7 +24,7 @@ fn main(){
   active: true,
   }
 
-  println!("This is a breif about me but in rust: {}",about)
+  println!("This is a breif about me but in rust: {:#?}",about)
 }
 ```
 [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=exodusLog&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
